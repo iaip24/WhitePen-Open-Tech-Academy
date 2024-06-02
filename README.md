@@ -11,3 +11,6 @@ Information Security & Penetration Testing ,
 AI & Machine Learning  ,
 Blockchain & NFT ,
 CLoud Computing GCP & AWS
+Digital Marketing 
+Affiliate marketing
+Network Marketing 
